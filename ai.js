@@ -24,5 +24,5 @@ const content = await requestLinkedin(title, jobDetails, instructions);
 console.log(content);
 }
 main();
-// cmd: SET OPENAI_API_KEY=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
+
 // You can find your API key at https://platform.openai.com/account/api-keys.
